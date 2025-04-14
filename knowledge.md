@@ -25,7 +25,7 @@ Table 2: example of footnotes referenced from within a table
 
 Table 3: "film credits" style layout
 
-|  Main character | Daniel Radcliffe                   |
+| Main character  | Daniel Radcliffe                   |
 |-----------------|------------------------------------|
 | Rupert Grint    | Sidekick 1                         |
 | Emma Watson     | Sidekick 2                         |
