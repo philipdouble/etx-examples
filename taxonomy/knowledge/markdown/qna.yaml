@@ -69,7 +69,7 @@ seed_examples:
         answer: The year goes in the header for columns 2 and beyond.
       - question: How many rows can be in the table?
         answer: |
-          The current assets table should have one row for each asset, 
+          The current assets table should have one row for each asset,
           plus the header.
   - context: footnotes referenced from within a table
     questions_and_answers:
