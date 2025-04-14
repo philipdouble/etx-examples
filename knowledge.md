@@ -46,9 +46,8 @@ Table 4: table 3 with column headers added
 
 ## Table 5: year-end financial statement (£, thousands)
 
-|                             | 2010   | 2009   | 2008   |
+|  Non-current assets         | 2010   | 2009   | 2008   |
 |-----------------------------|--------|--------|--------|
-| Non-current assets          |        |        |        |
 | Property                    | 345    | 445    | 222    |
 | Investment                  | 567    | 654    | 423    |
 | Intangibles                 | 423    | 123    | 453    |
