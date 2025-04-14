@@ -63,3 +63,24 @@ seed_examples:
             How many calumns are there in the "film credits" style layout?
         answer: |
             There are two columns in the "film credits" style layout: "Actor" and "Role".
+  - context: |
+        year end financial statement
+    questions_and_answers:
+      - question: |
+            What is the purpose of the table?
+        answer: |
+            The purpose of the year-end financial statement table is to summarize the financial performance and position of the organization for the fiscal year, including key metrics such as revenue, expenses, and net income.
+      - question: |
+            What are the key metrics included in the year-end financial statement table?
+        answer: |
+            Key metrics included in the year-end financial statement table typically include:
+            - Total Revenue
+            - Total Expenses
+            - Net Income
+            - Assets
+            - Liabilities
+            - Equity
+      - question: |
+            How is the data organized in the year-end financial statement table?
+        answer: |
+            The data in the year-end financial statement table is organized into rows and columns, with each row representing a specific metric or category and each column representing the values for different periods or comparisons, such as current year and previous year.                    
