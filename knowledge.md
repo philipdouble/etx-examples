@@ -79,11 +79,11 @@ Table 4: table 3 with column headers added
 
 ## Table 8: year-end statement, current assets (£, thousands)
 
-| Current assets            |   2010 |   2009 | 2008                             |
-|---------------------------|--------|--------|----------------------------------|
-|                           |    435 |    634 | Trade and other receivables  231 |
-| Cash and cash equivalents |    524 |    123 | 482                              |
-| Other                     |    223 |    211 | 254                              |
+| Current assets              |   2010 |   2009 | 2008                             |
+|-----------------------------|--------|--------|----------------------------------|
+| Trade and other receivables |    435 |    634 |   231                            |
+| Cash and cash equivalents   |    524 |    123 |   482                            |
+| Other                       |    223 |    211 |   254                            |
 
 ## Table 9: rainfall by continent, 2009
 
