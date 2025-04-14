@@ -7,13 +7,15 @@ document_outline: >-
 seed_examples:
   - context: Design and build accessible Portable Document Format (PDF) tables
     questions_and_answers:
-      - question: What are the best practices for designing accessible PDF tables?
+      - question: |
+          What are the best practices for designing accessible PDF tables?
         answer: |-
           Best practices for designing accessible PDF tables include:
                       - Use simple and clear table structures.
                       - Include headers for each column and row.
                       - Avoid merged cells when possible.
-      - question: How can I ensure that my PDF tables are accessible to screen readers?
+      - question: |
+          How can I ensure that my PDF tables are accessible to screen readers?
         answer: |-
           To ensure that PDF tables are accessible to screen readers:
                       - Use proper tagging for tables in the PDF.
@@ -36,7 +38,8 @@ seed_examples:
         answer: >-
           Footnotes should be numbered sequentially and placed at the bottom of
           the table, with a clear distinction from the table content.
-      - question: Can footnotes be used to provide additional information in PDF tables?
+      - question: |
+          Can footnotes be used to provide additional information in PDF tables?
         answer: >-
           Yes, footnotes can be used to provide additional information or
           clarifications related to the table content, enhancing the
@@ -57,30 +60,31 @@ seed_examples:
           "Role".
   - context: year-end statement, current assets
     questions_and_answers:
-      - question: >-
+      - question: |
           What information goes in the first column of a year-end statement for
           current assets?
         answer: The first column is Current Assets and each item is one asset.
-      - question: What information goes in the column headers for column 2 and beyond?
+      - question: |
+          What information goes in the column headers for column 2 and beyond?
         answer: The year goes in the header for columns 2 and beyond.
       - question: How many rows can be in the table?
-        answer: >-
-          The current assets table should have one row for each asset, plus the
-          header.
+        answer: |
+          The current assets table should have one row for each asset, 
+          plus the header.
   - context: footnotes referenced from within a table
     questions_and_answers:
       - question: How do you reference a footnote from within a table?
-        answer: >-
+        answer: |
           After the entry needing a reference, place a space and then the number
           of the reference, which must match the number of the footnote.
-      - question: >-
+      - question: |
           Can you reference more than one thing from the same place in the
           table?
-        answer: >-
+        answer: |
           To reference more than one thing, enter each reference in a comma
           separated list.
       - question: Do all footnotes need to be referenced in the table?
-        answer: >-
+        answer: |
           No, there may be footnotes that are not referenced from data in the
           table.
 document:
