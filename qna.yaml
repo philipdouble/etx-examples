@@ -84,7 +84,7 @@ seed_examples:
           No, there may be footnotes that are not referenced from data in the
           table.
 document:
-  repo:
-  commit:
+  repo: https://github.com/philipdouble/etx-examples
+  commit: 265426f98aa2358fa737f3ff211154e5c18a89ee
   patterns:
-    -
+    - knowledge.md
